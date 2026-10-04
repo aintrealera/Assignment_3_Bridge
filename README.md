@@ -3,8 +3,8 @@
 Name: Yerasyl Makhanbetali
 Group: SE-2522
 Topic: A - Drawing
-Repository: [PASTE YOUR GITHUB URL HERE]
-Base commit: [WILL BE ADDED LATER]
+Repository: https://github.com/aintrealera/Assignment_3_Bridge
+Base commit: 854e5deaec2bc038290ec69ea5e1701fd3c2d520
 
 ## Role Map
 
